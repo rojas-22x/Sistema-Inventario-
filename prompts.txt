@@ -1,0 +1,11 @@
+Prompt 1:
+Genera un manual de usuario en formato Markdown para un sistema de inventario en Java de consola. Debe incluir descripcion del sistema, como ejecutar, explicacion del menu y ejemplos de uso.
+
+Prompt 2:
+Genera un manual tecnico en formato Markdown para un proyecto Java con arquitectura por capas. Debe explicar la arquitectura, la responsabilidad de cada clase, el flujo del sistema y las decisiones tecnicas tomadas.
+
+Prompt 3:
+Genera un diagrama de clases UML en formato Mermaid para un sistema de inventario en Java. Debe mostrar capas separadas, relaciones correctas, interfaces y una seccion obligatoria donde se documente el uso de IA.
+
+Prompt 4:
+Revisa el proyecto Sistema de Inventario y redacta documentacion basada en las clases reales encontradas en los paquetes `Presentacion`, `Servicio`, `AccesoDatos` y `Entidades`, evitando inventar componentes que no existan.
